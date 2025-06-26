@@ -1,0 +1,12 @@
+2025-06-26 22:16:01.096535+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM AIRLINE AIRPORT [*]FLIGHT"; SQL statement:
+SELECT * FROM AIRLINE AIRPORT FLIGHT [42000-232]
+2025-06-26 22:16:12.901780+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM AIRLINE AIRPORT [*]FLIGHT FLIGHT"; SQL statement:
+SELECT * FROM AIRLINE AIRPORT FLIGHT FLIGHT [42000-232]
+2025-06-26 22:16:13.892340+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM AIRLINE AIRPORT [*]FLIGHT FLIGHT"; SQL statement:
+SELECT * FROM AIRLINE AIRPORT FLIGHT FLIGHT [42000-232]
+2025-06-26 22:16:19.380599+05:30 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "SELECT * FROM AIRLINE AIRPORT [*]FLIGHT"; SQL statement:
+SELECT * FROM AIRLINE AIRPORT FLIGHT [42000-232]
